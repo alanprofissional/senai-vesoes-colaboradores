@@ -1,0 +1,15 @@
+comandos Git mais usados
+
+Git init
+Git clone
+Git branch
+Git checkout
+Git status
+Git diff
+Git add
+Git commit
+Git push
+Git pull
+Git revert
+Git merge
+Git stash
